@@ -73,6 +73,6 @@ pacman -S --needed base-devel mingw-w64-x86_64-toolchain
 
   Then again [run] the program.
 
-[image_compressor]: https://crate.io/crates/image_compressor
+[image_compressor]: https://crates.io/crates/image_compressor
 [run]:(#how-to-run)
 [check out this link]: https://www.computerhope.com/issues/ch000549.htm
