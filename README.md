@@ -35,10 +35,11 @@ This will add a **comps** folder with your compressed images.
 Special thanks to the creators of the **[image_compressor]** crate for providing a powerful image compression library in Rust.
 
 ## For Windows Systems
-
-### There might be an error running the program 
+If you have mingw previously installed on the system there might be an error when running the program 
+This can be solved by adding the "mingw\bin" directory to your PATH variables
 **Error:Failed to find tool. Is gcc.exe installed?**
 
+#### If the problem continues
 Solve this by:
 
 - Going to MSYS2.org https://www.msys2.org
