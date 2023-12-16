@@ -22,7 +22,6 @@ git clone https://github.com/Tuhinpaul5/rust_image_compressor.git
 
 ```
 cd rust_image_compressor
-
 ```
 Copy your images into the **images** folder and then run the program.
 
