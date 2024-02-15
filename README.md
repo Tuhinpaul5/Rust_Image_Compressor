@@ -31,8 +31,9 @@ cargo run
 
 This will add a **comps** folder with your compressed images.
 
-hange the value of 
-```
+Change 1.0 and 0.7 to get your desired compression quality and ratio
+
+```rust
 use std::path::PathBuf;
 use image_compressor::FolderCompressor;
 use image_compressor::Factor;
