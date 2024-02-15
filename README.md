@@ -102,5 +102,5 @@ pacman -S --needed base-devel mingw-w64-x86_64-toolchain
 [image_compressor]: https://crates.io/crates/image_compressor
 [run]:(#how-to-run)
 [check out this link]: https://www.computerhope.com/issues/ch000549.htm
-[mingw]: (#for-windows-systems)
-[below]: (#for-windows-systems)
+[mingw]: (##for-windows-systems)
+[below]: (##for-windows-systems)
