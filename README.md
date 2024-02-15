@@ -12,7 +12,7 @@ Follow these steps to run the Rust Image Compressor:
 Before you begin, make sure you have Rust installed on your machine. If not, you can install Rust by following the instructions on the official website : [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install).
 
 
-You'll need to install MinGW (*If you don't already have it installed see below*)
+You'll need to install MinGW (*If you don't already have it installed see [below]*)
 
 ### Clone the Repository
 
@@ -103,3 +103,4 @@ pacman -S --needed base-devel mingw-w64-x86_64-toolchain
 [run]:(#how-to-run)
 [check out this link]: https://www.computerhope.com/issues/ch000549.htm
 [mingw]: (#for-windows-systems)
+[below]: (#for-windows-systems)
