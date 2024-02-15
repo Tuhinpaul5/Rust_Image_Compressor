@@ -5,7 +5,7 @@ This project is a simple image compression tool built using the Rust programming
 
 ## How to Run
 
-Follow these steps to run the Rust Image Compressor:
+Follow these steps to [run] the Rust Image Compressor:
 
 ### Prerequisites
 
@@ -103,4 +103,4 @@ pacman -S --needed base-devel mingw-w64-x86_64-toolchain
 [run]:(#how-to-run)
 [check out this link]: https://www.computerhope.com/issues/ch000549.htm
 [mingw]: (#for-windows-systems)
-[below]: (https://github.com/Tuhinpaul5/rust_image_compressor?tab=readme-ov-file#for-windows-systems)
+[below]: (#for-windows-systems)
