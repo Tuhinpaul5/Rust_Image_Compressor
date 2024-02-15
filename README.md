@@ -57,7 +57,8 @@ fn main() {
 ## Acknowledgments
 Special thanks to the creators of the **[image_compressor]** crate for providing a powerful image compression library in Rust.
 
-## For Windows Systems
+## For Windows System {#for-windows-system}
+
 If you have mingw previously installed on the system and there is an error when running the program 
 
 **Error:Failed to find tool. Is gcc.exe installed?**
@@ -102,5 +103,6 @@ pacman -S --needed base-devel mingw-w64-x86_64-toolchain
 [image_compressor]: https://crates.io/crates/image_compressor
 [run]:(#how-to-run)
 [check out this link]: https://www.computerhope.com/issues/ch000549.htm
-[mingw]: (#for-windows-systems)
-[below]: (#for-windows-systems)
+[mingw]: (#for-windows-system)
+
+[belowe](#section-title)
